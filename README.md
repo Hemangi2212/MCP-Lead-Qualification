@@ -13,11 +13,10 @@
 
 This project demonstrates a **real-world AI automation system** where an intelligent chat agent **qualifies leads conversationally** and **automatically stores structured data** into Google Sheets.
 
-Built using **n8n + Generative AI + MCP**, this project follows a **clean client–server architecture** and is ideal for:
+Built using **n8n +  MCP**, this project follows a **clean client–server architecture** and is ideal for:
 
 * Real estate businesses
 * Sales & marketing teams
-* AI-powered CRM intake systems
 
 ---
 
@@ -66,7 +65,7 @@ Google Sheets (Lead Database)
 
 **Sample AI Message:**
 
-> *"Hello! Welcome to Godrej Properties. I’m Sarah. Are you interested in a 2, 3, or 4 BHK apartment in Hinjawadi, Pune?"*
+> *"Hi there! Welcome to Godrej Properties. Are you interested in finding out more about our apartments in Hinjawadi, Pune?"*
 
 ---
 
@@ -77,7 +76,7 @@ Google Sheets (Lead Database)
 **Key Nodes:**
 
 * MCP Server Trigger
-* Google Sheets (Append Row)
+* Google Sheets 
 
 **Data Stored:**
 
@@ -85,7 +84,6 @@ Google Sheets (Lead Database)
 * Contact details
 * Preferred BHK
 * Location
-* Budget (optional)
 
 ---
 
@@ -119,3 +117,27 @@ Google Sheets (Lead Database)
 2. Click **Import from file**
 3. Import both JSON files
 4. Configure credentials:
+
+Google Gemini API
+
+Google Sheets OAuth
+
+Activate both workflows
+
+Start chatting 🚀
+
+
+📊 Google Sheets Output
+
+Automatically appends new leads
+
+Acts as a lightweight CRM
+
+Ready for dashboards & analytics
+
+🎯 Real-World Use Cases
+
+🏢 Real Estate Lead Qualification
+📞 Sales Chatbots
+🤖 AI-powered CRM Intake
+📋 Form Automation Replacement
