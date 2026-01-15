@@ -126,8 +126,9 @@ Activate both workflows
 
 Start chatting 🚀
 
+---
 
-📊 Google Sheets Output
+## 📊 Google Sheets Output
 
 Automatically appends new leads
 
@@ -135,9 +136,14 @@ Acts as a lightweight CRM
 
 Ready for dashboards & analytics
 
-🎯 Real-World Use Cases
+---
+
+---
+
+## 🎯 Real-World Use Cases
 
 🏢 Real Estate Lead Qualification
 📞 Sales Chatbots
 🤖 AI-powered CRM Intake
 📋 Form Automation Replacement
+---
